@@ -1,7 +1,7 @@
 twilight-syntax
 ===============
 
-Twilight theme for GitHub's Atom IDE.
+A fork of [Cannikin's](https://github.com/cannikin/twilight-syntax) Twilight theme for GitHub's Atom IDE. Minor tweaks for personal preferences. Removing the background color, I think, makes the theme more appealing in Atom. 
 
 Ported from the Twilight Textmate theme.
 
